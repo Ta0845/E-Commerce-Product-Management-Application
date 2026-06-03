@@ -1,0 +1,18 @@
+.cart-table {
+  border-collapse: collapse;
+}
+
+.cart-table tbody tr {
+  border-bottom: 1px solid #eee;
+}
+
+.cart-table tbody tr:hover {
+  background-color: #f9f9f9;
+}
+
+.cart-summary {
+  background: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  border: 1px solid #eee;
+}

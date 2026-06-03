@@ -1,0 +1,25 @@
+.profile-card {
+  max-width: 600px;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.profile-item {
+  padding: 15px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.profile-item:last-child {
+  border-bottom: none;
+}
+
+.profile-item h5 {
+  color: #667eea;
+  margin-bottom: 5px;
+}
+
+.profile-item p {
+  margin: 0;
+  font-size: 1.1rem;
+}
